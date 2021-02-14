@@ -1,0 +1,25 @@
+{
+  "name": "binancebtctrader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ccxt": "^1.41.89",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9grampanter/BinanceBTCTrader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9grampanter/BinanceBTCTrader/issues"
+  },
+  "homepage": "https://github.com/9grampanter/BinanceBTCTrader#readme"
+}
